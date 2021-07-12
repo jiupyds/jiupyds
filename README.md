@@ -19,3 +19,4 @@ My goal is to work with Web Automation Systems, I have notions of Probability an
 Follow me 👇
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LucianoGomes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-gomes-96166759/)](https://www.linkedin.com/in/luciano-gomes-96166759/)
+[![Gmail Badge](https://img.shields.io/badge/-jiupyds@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiupyds@gmail.com)](mailto:jiujpyds@gmail.com)
